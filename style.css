@@ -1,0 +1,20 @@
+element.style {
+    border: solid  2px  white;
+}
+
+
+
+body {
+ color:white;
+ background: black;
+ margin: 20px; 
+}
+header {
+border-bottom:  solid 2px rgb(228, 147, 42);
+padding: 20px;
+
+}
+
+section{
+    background: brown;
+}
